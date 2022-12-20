@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Deidee\Geenlogo;
+namespace Geenlogo;
 
 use Cake\Core\BasePlugin;
 
