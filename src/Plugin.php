@@ -1,6 +1,8 @@
 <?php
 declare(strict_types=1);
 
+namespace Deidee\Geenlogo;
+
 use Cake\Core\BasePlugin;
 
 class Plugin extends BasePlugin {
