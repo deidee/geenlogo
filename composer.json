@@ -1,11 +1,11 @@
 {
     "name": "deidee/geenlogo",
     "description": "Logo voor de logolozen.",
-    "type": "library",
+    "type": "cakephp-plugin",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Deidee\\Geenlogo\\": "src/"
+            "Geenlogo\\": "src/"
         }
     },
     "authors": [
